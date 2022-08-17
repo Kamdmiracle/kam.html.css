@@ -1,0 +1,40 @@
+.box {
+border: 1px solid black;
+height: 150px;
+width: 150px;
+margin: 15px;
+padding: 10px;
+}
+#flex {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+body {
+    background-color: #509587;
+    margin-top: auto;
+    margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
+td, th {
+    border: 1px solid;
+    padding: 5px;
+    border-spacing: 1px;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    border-width: 2px;
+}
+.center {
+    margin: auto;
+    width: fit-content;
+    padding: 10px
+}
+video {
+    width: fit-content;
+}
+p, h1, h2 {
+    text-align: center;
+}
